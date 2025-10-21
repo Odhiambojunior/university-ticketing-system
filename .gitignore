@@ -48,5 +48,5 @@ temp/
 *.tmp
 
 # Frontend dist folder (if you copied it)
-client/
-university-ticketing-frontend/
+#client/
+#university-ticketing-frontend/
